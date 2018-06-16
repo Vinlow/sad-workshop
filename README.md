@@ -38,10 +38,6 @@ node client.js
 
 ### Answers
 
-#### What does HATEOAS mean?
-
-#### Which standards do you know to implement HATEOS?
-
 #### What ist the Richardson Maturity Model?
 
 The R. M. Model is a three step (or level) approach for implementing a clean REST-API. It's orientating the levels Hypermedia, HTTP and URI in a pyramid style for a clean implementation of a RESTfull service.
